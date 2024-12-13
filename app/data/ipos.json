@@ -1,0 +1,16 @@
+[{
+  "id": 1,
+  "logo": "https://ipo.ventura1.com/aceipo/admin/logo/3073_Logo.png",
+  "name": "IGIIL",
+  "issueSize": "₹4,225 - 4,438",
+  "priceRange": "₹397 - ₹417",
+  "minAmount": "₹14,595",
+  "lotSize": "35 shares",
+  "issueDates": "13 Dec - 17 Dec 2024",
+  "listedDate": "20 Dec 2024",
+  "financials": [
+    { "year": "2021", "value": "17.15Cr" },
+    { "year": "2022", "value": "24.43Cr" },
+    { "year": "2023", "value": "32.91Cr" }
+  ]
+}]
