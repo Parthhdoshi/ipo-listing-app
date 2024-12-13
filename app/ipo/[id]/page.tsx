@@ -4,7 +4,7 @@ import Image from "next/image";
 import FinancialTabs from "@/app/components/FinancialTab";
 import BackButton from "@/app/components/BackButton";
 
-export default async function IPOPage({ params }: { params: { id: string } }) {
+export default async function IPOPage({ params }: any) {
   const { id } = await params;
 
   const ipo: any = ipos.find((item: any) => item.id == id);
