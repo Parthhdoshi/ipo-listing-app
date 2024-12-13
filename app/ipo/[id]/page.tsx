@@ -2,8 +2,6 @@ import { notFound } from "next/navigation";
 import ipos from "../../data/ipos.json";
 import Image from "next/image";
 import FinancialTabs from "@/app/components/FinancialTab";
-import Link from "next/link";
-import { Redirect } from "@/app/components/Redirect";
 import BackButton from "@/app/components/BackButton";
 
 export default async function IPOPage({ params }: { params: { id: string } }) {
